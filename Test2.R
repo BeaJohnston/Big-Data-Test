@@ -1,2 +1,1 @@
-Print "Hello World 2"
-Print "New World"
+print("Hello World 2")
